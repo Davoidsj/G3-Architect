@@ -418,9 +418,9 @@ height:150px;
 /* --------media query starts here. ------------*/
 
 
-/* --------------------------
-mobile screen range 320px-600px
------------------------------- */
+/* ----------------------------------
+mobile screen width range 320px-600px
+------------------------------------- */
 
 @media screen and (min-width:320px) and (max-width:600px){
     header nav .container .name h1{
